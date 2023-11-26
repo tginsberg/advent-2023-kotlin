@@ -2,8 +2,6 @@
  * Copyright (c) 2022 by Todd Ginsberg
  */
 
-@file:Suppress("RedundantInnerClassModifier", "RedundantInnerClassModifier")
-
 package com.ginsberg.advent2023
 
 import com.ginsberg.advent2023.Resources.resourceAsListOfInt
