@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2022 by Todd Ginsberg
+ * Copyright (c) 2023 by Todd Ginsberg
  */
 
 rootProject.name = "advent-2023-kotlin"
