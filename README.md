@@ -27,6 +27,6 @@ Past years, also in Kotlin:
 
 | Day | Title       | Links                                                                                                                                                                |
 |-----|:------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Trebuchet?! | [\[Code\]](https://github.com/tginsberg/advent-2022-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day01.kt) [\[AoC\]](http://adventofcode.com/2023/day/1) |
+| 1   | Trebuchet?! | [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day01.kt) [\[AoC\]](http://adventofcode.com/2023/day/1) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
