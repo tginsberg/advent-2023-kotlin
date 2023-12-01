@@ -27,10 +27,16 @@ class Day01(private val input: List<String>) {
 
     fun solvePart2(): Int =
         input.sumOf { row ->
-            calibrationValue(
+           calibrationValue(
+                // Run through each character and turn it into a digit or a null,
+                // and then map each of them to a String. In theory, we could take
+                // the first and last digits from the resulting list instead of joining.
                 row.mapIndexedNotNull { index, c ->
+                    // If it is a digit, take it as-is
                     if (c.isDigit()) c
                     else
+                        // Otherwise, see if this is the start of a word and if so map to the
+                        // digit that it represents.
                         row.possibleWordsAt(index).firstNotNullOfOrNull { candidate ->
                             words[candidate]
                         }
