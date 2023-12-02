@@ -5,6 +5,7 @@
 /**
  * Advent of Code 2023, Day 1 - Trebuchet?!
  * Problem Description: http://adventofcode.com/2023/day/1
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2023/day1/
  */
 package com.ginsberg.advent2023
 
