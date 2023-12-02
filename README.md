@@ -25,8 +25,9 @@ Past years, also in Kotlin:
 * 2022 - [GitHub](https://github.com/tginsberg/advent-2022-kotlin/)
   and [Blog Posts](https://todd.ginsberg.com/post/advent-of-code/2022/)
 
-| Day | Title       | Links                                                                                                                                                                |
-|-----|:------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Trebuchet?! | [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day01.kt) [\[AoC\]](http://adventofcode.com/2023/day/1) |
+| Day | Title                    | Links                                                                                                                                                                                                                                                |
+|-----|:-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Trebuchet?!              | [\[Blog/Commentary\]](https://todd.ginsberg.com/post/advent-of-code/2023/day1/) [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day01.kt) [\[AoC\]](http://adventofcode.com/2023/day/1) |
+| 2   | Cube Conundrum           | [\[Blog/Commentary\]](https://todd.ginsberg.com/post/advent-of-code/2023/day2/) [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day02.kt) [\[AoC\]](http://adventofcode.com/2023/day/2) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
