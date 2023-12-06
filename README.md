@@ -33,5 +33,6 @@ Past years, also in Kotlin:
 | 3   | Gear Ratios                     | [\[Blog/Commentary\]](https://todd.ginsberg.com/post/advent-of-code/2023/day3/) [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day03.kt) [\[AoC\]](http://adventofcode.com/2023/day/3) |
 | 4   | Scratchcards                    | [\[Blog/Commentary\]](https://todd.ginsberg.com/post/advent-of-code/2023/day4/) [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day04.kt) [\[AoC\]](http://adventofcode.com/2023/day/4) |
 | 5   | If You Give A Seed A Fertilizer | [\[Blog/Commentary\]](https://todd.ginsberg.com/post/advent-of-code/2023/day5/) [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day05.kt) [\[AoC\]](http://adventofcode.com/2023/day/5) |
+| 6   | Wait For It                     | [\[Blog/Commentary\]](https://todd.ginsberg.com/post/advent-of-code/2023/day6/) [\[Code\]](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day06.kt) [\[AoC\]](http://adventofcode.com/2023/day/6) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
