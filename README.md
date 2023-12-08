@@ -36,5 +36,6 @@ Past years, also in Kotlin:
 | 6   | Wait For It                     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day6/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day06.kt) | [AoC](http://adventofcode.com/2023/day/6) |
 | 7   | Camel Cards                     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day7/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day07.kt) | [AoC](http://adventofcode.com/2023/day/7) |
 | 8   | Haunted Wasteland               | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day8/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day08.kt) | [AoC](http://adventofcode.com/2023/day/8) |
+| 9   | Mirage Maintenance              | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day9/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day09.kt) | [AoC](http://adventofcode.com/2023/day/9) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
