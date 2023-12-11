@@ -15,12 +15,12 @@ class Day11(input: List<String>) {
 
     fun solvePart1(): Int =
         spreadGalaxies()
-            .permutePairs()
+            .cartesianPairs()
             .sumOf { it.first.distanceTo(it.second) }
 
     fun solvePart2(expansion: Int): Long =
         spreadGalaxies(expansion)
-            .permutePairs()
+            .cartesianPairs()
             .sumOf { it.first.distanceTo(it.second).toLong() }
 
     private fun spreadGalaxies(spreadFactor: Int = 2): List<Point2D> {
