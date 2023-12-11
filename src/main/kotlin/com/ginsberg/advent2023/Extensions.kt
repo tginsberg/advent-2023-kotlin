@@ -10,6 +10,11 @@ fun Long.lcm(other: Long): Long =
 fun Array<CharArray>.isSafe(at: Point2D) =
     at.y in this.indices && at.x in this[at.y].indices
 
+fun <E> List<E>.permutePairs(): List<Pair<E, E>> =
+    this.flatMapIndexed { index, left ->
+        this.indices.drop(index).map { right -> left to this[right] }
+    }
+
 operator fun Array<CharArray>.set(at: Point2D, c: Char) {
     this[at.y][at.x] = c
 }

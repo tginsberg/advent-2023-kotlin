@@ -1,5 +1,7 @@
 package com.ginsberg.advent2023
 
+import kotlin.math.absoluteValue
+
 data class Point2D(val x: Int, val y: Int) {
     fun neighbors(): Set<Point2D> =
         setOf(
@@ -20,6 +22,9 @@ data class Point2D(val x: Int, val y: Int) {
             this + SOUTH,
             this + WEST
         )
+
+    fun distanceTo(other: Point2D): Int =
+        (x - other.x).absoluteValue + (y - other.y).absoluteValue
 
     operator fun minus(other: Point2D): Point2D =
         Point2D(x - other.x, y - other.y)
