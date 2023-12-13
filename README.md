@@ -40,5 +40,6 @@ Past years, also in Kotlin:
 | 10  | Pipe Maze                       | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day10/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day10.kt) | [AoC](http://adventofcode.com/2023/day/10) |
 | 11  | Cosmic Expansion                | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day11/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day11.kt) | [AoC](http://adventofcode.com/2023/day/11) |
 | 12  | Hot Springs                     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day12/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day12.kt) | [AoC](http://adventofcode.com/2023/day/12) |
+| 13  | Point of Incidence              | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day13/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day13.kt) | [AoC](http://adventofcode.com/2023/day/13) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
