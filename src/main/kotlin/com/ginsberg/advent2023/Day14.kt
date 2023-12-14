@@ -11,7 +11,8 @@ package com.ginsberg.advent2023
 
 class Day14(input: List<String>) {
 
-    private val grid: Array<CharArray> = input.map { it.trim().toCharArray() }.toTypedArray()
+    private val grid: Array<CharArray> = input.map { it.toCharArray() }.toTypedArray()
+
     private val progressions: Map<Point2D, List<Point2D>> = mapOf(
         Point2D.NORTH to grid.indices.flatMap { y ->
             grid.first().indices.map { x ->
