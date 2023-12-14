@@ -71,13 +71,13 @@ class Day14(input: List<String>) {
         progressions
             .getValue(direction)
             .filter { this[it] == 'O' }
-            .forEach { doTilt(this, it, direction) }
+            .forEach { doTilt(it, direction) }
     }
 
-    private fun doTilt(grid: Array<CharArray>, place: Point2D, direction: Point2D) {
+    private fun Array<CharArray>.doTilt(place: Point2D, direction: Point2D) {
         var current = place
-        while (grid.isSafe(current + direction) && grid[current + direction] == '.') {
-            grid.swap(current, current + direction)
+        while (isSafe(current + direction) && this[current + direction] == '.') {
+            swap(current, current + direction)
             current += direction
         }
     }
