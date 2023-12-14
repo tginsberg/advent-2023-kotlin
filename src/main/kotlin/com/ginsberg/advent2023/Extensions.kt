@@ -21,3 +21,9 @@ operator fun Array<CharArray>.set(at: Point2D, c: Char) {
 
 operator fun Array<CharArray>.get(at: Point2D): Char =
     this[at.y][at.x]
+
+fun Array<CharArray>.swap(a: Point2D, b: Point2D) {
+    val tmp = this[a]
+    this[a] = this[b]
+    this[b] = tmp
+}
