@@ -25,7 +25,7 @@ class Day15(input: String) {
                 boxes[label.hash()].remove(label)
             } else {
                 val label = instruction.substringBefore('=')
-                boxes[label.hash()].compute(label) { _, _ -> instruction.substringAfter("=").toInt() }
+                boxes[label.hash()][label] = instruction.substringAfter("=").toInt()
             }
         }
 
