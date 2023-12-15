@@ -42,5 +42,6 @@ Past years, also in Kotlin:
 | 12  | Hot Springs                     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day12/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day12.kt) | [AoC](http://adventofcode.com/2023/day/12) |
 | 13  | Point of Incidence              | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day13/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day13.kt) | [AoC](http://adventofcode.com/2023/day/13) |
 | 14  | Parabolic Reflector Dish        | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day14/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day14.kt) | [AoC](http://adventofcode.com/2023/day/14) |
+| 15  | Lens Library                    | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day15/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day15.kt) | [AoC](http://adventofcode.com/2023/day/15) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
