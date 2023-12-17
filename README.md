@@ -44,5 +44,6 @@ Past years, also in Kotlin:
 | 14  | Parabolic Reflector Dish        | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day14/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day14.kt) | [AoC](http://adventofcode.com/2023/day/14) |
 | 15  | Lens Library                    | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day15/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day15.kt) | [AoC](http://adventofcode.com/2023/day/15) |
 | 16  | The Floor Will Be Lava          | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day16/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day16.kt) | [AoC](http://adventofcode.com/2023/day/16) |
+| 17  | Clumsy Crucible                 | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day17/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day17.kt) | [AoC](http://adventofcode.com/2023/day/17) |
 
 Copyright &copy; 2023 by Todd Ginsberg.

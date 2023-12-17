@@ -7,13 +7,14 @@ tailrec fun Long.gcd(other: Long): Long =
 fun Long.lcm(other: Long): Long =
     (this * other) / this.gcd(other)
 
-fun Array<CharArray>.isSafe(at: Point2D) =
-    at.y in this.indices && at.x in this[at.y].indices
 
 fun <E> List<E>.cartesianPairs(): List<Pair<E, E>> =
     this.flatMapIndexed { index, left ->
         this.indices.drop(index).map { right -> left to this[right] }
     }
+
+fun Array<CharArray>.isSafe(at: Point2D) =
+    at.y in this.indices && at.x in this[at.y].indices
 
 operator fun Array<CharArray>.set(at: Point2D, c: Char) {
     this[at.y][at.x] = c
@@ -27,3 +28,9 @@ fun Array<CharArray>.swap(a: Point2D, b: Point2D) {
     this[a] = this[b]
     this[b] = tmp
 }
+
+fun List<List<*>>.isSafe(at: Point2D) =
+    at.y in this.indices && at.x in this[at.y].indices
+
+operator fun <T> List<List<T>>.get(at: Point2D): T =
+    this[at.y][at.x]
