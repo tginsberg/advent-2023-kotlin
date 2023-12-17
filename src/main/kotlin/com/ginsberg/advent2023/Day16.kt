@@ -5,7 +5,7 @@
 /**
  * Advent of Code 2023, Day 16 - The Floor Will Be Lava
  * Problem Description: http://adventofcode.com/2023/day/16
- * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2023/day156/
+ * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2023/day16/
  */
 package com.ginsberg.advent2023
 
