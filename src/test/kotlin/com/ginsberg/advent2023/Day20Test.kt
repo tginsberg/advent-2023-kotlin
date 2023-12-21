@@ -12,15 +12,6 @@ import org.junit.jupiter.api.Test
 
 @DisplayName("Day 20")
 class Day20Test {
-    
-    // Arrange
-    val input = """
-        broadcaster -> a, b, c
-        %a -> b
-        %b -> c
-        %c -> inv
-        &inv -> a
-    """.trimIndent().lines()
 
     @Nested
     @DisplayName("Part 1")
@@ -36,7 +27,6 @@ class Day20Test {
                 %c -> inv
                 &inv -> a
             """.trimIndent().lines()
-
 
             // Act
             val answer = Day20(input).solvePart1()
@@ -62,7 +52,6 @@ class Day20Test {
             // Assert
             assertThat(answer).isEqualTo(11687500)
         }
-
 
         @Test
         fun `Actual answer`() {
