@@ -48,7 +48,8 @@ Past years, also in Kotlin:
 | 18  | Lavaduct Lagoon                 | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day18/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day18.kt) | [AoC](http://adventofcode.com/2023/day/18) |
 | 19  | Aplenty                         |                                                                              |                                                                                                                    | [AoC](http://adventofcode.com/2023/day/19) |
 | 20  | Pulse Propagation               | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day20/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day20.kt) | [AoC](http://adventofcode.com/2023/day/20) |
-| 21  | Step Counter                    |  | | [AoC](http://adventofcode.com/2023/day/21) |
+| 21  | Step Counter                    |                                                                              |                                                                                                                    | [AoC](http://adventofcode.com/2023/day/21) |
 | 22  | Sand Slabs                      | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day22/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day22.kt) | [AoC](http://adventofcode.com/2023/day/22) |
+| 23  | A Long Walk                     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day23/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day23.kt) | [AoC](http://adventofcode.com/2023/day/23) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
