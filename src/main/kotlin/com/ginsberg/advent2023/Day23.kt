@@ -3,7 +3,7 @@
  */
 
 /**
- * Advent of Code 2023, Day 23 -
+ * Advent of Code 2023, Day 23 - A Long Walk
  * Problem Description: http://adventofcode.com/2023/day/23
  * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2023/day23/
  */
