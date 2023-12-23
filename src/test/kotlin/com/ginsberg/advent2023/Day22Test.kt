@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2223 by Todd Ginsberg
+ * Copyright (c) 2023 by Todd Ginsberg
  */
 
 package com.ginsberg.advent2023
