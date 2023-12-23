@@ -34,3 +34,6 @@ fun List<List<*>>.isSafe(at: Point2D) =
 
 operator fun <T> List<List<T>>.get(at: Point2D): T =
     this[at.y][at.x]
+
+infix fun IntRange.intersects(other: IntRange): Boolean =
+    first <= other.last && last >= other.first
