@@ -22,7 +22,6 @@ class Day25(private val input: List<String>) {
                 val newNode = "$a-$b"
 
                 counts[newNode] = (counts.remove(a) ?: 0) + (counts.remove(b) ?: 0)
-
                 graph.combineValues(a, b, newNode)
                 graph.mergeNodes(a, newNode)
                 graph.mergeNodes(b, newNode)

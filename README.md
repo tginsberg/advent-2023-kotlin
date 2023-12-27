@@ -54,4 +54,5 @@ Past years, also in Kotlin:
 | 24  | Never Tell Me The Odds          |                                 Coming soon                                  |                                                    Coming Soon                                                     | [AoC](http://adventofcode.com/2023/day/23) |
 | 25  | Snowverload                     |                                 Coming Soon                                  | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day23.kt) | [AoC](http://adventofcode.com/2023/day/23) |
 
+
 Copyright &copy; 2023 by Todd Ginsberg.

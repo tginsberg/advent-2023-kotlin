@@ -43,7 +43,7 @@ class Day25Test {
             // Assert
             assertThat(answer).isEqualTo(54)
         }
-        
+
         @Test
         fun `Actual answer`() {
             // Act
