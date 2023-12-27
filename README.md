@@ -51,5 +51,7 @@ Past years, also in Kotlin:
 | 21  | Step Counter                    |                                 Coming Soon                                  | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day21.kt) | [AoC](http://adventofcode.com/2023/day/21) |
 | 22  | Sand Slabs                      | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day22/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day22.kt) | [AoC](http://adventofcode.com/2023/day/22) |
 | 23  | A Long Walk                     | [Blog/Commentary](https://todd.ginsberg.com/post/advent-of-code/2023/day23/) | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day23.kt) | [AoC](http://adventofcode.com/2023/day/23) |
+| 24  | Never Tell Me The Odds          |                                 Coming soon                                  |                                                    Coming Soon                                                     | [AoC](http://adventofcode.com/2023/day/23) |
+| 25  | Snowverload                     |                                 Coming Soon                                  | [Code](https://github.com/tginsberg/advent-2023-kotlin/blob/main/src/main/kotlin/com/ginsberg/advent2023/Day23.kt) | [AoC](http://adventofcode.com/2023/day/23) |
 
 Copyright &copy; 2023 by Todd Ginsberg.
