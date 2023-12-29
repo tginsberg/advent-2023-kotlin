@@ -3,7 +3,7 @@
  */
 
 /**
- * Advent of Code 2023, Day 19 -
+ * Advent of Code 2023, Day 19 - Aplenty
  * Problem Description: http://adventofcode.com/2023/day/19
  * Blog Post/Commentary: https://todd.ginsberg.com/post/advent-of-code/2023/day19/
  */
@@ -92,7 +92,6 @@ class Day19(input: List<String>) {
                 )
         }
     }
-
 
     private sealed class Rule(val nextWorkflow: String) {
         companion object {
