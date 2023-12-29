@@ -69,12 +69,21 @@ class Day17Test {
         }
 
         @Test
-        fun `Actual answer`() {
+        fun `Actual answer EAST`() {
             // Act
             val answer = Day17(resourceAsListOfString("day17.txt")).solvePart2()
 
             // Assert
             assertThat(answer).isEqualTo(1_215)
+        }
+
+        @Test
+        fun `Actual answer SOUTH`() {
+            // Act
+            val answer = Day17(resourceAsListOfString("day17_south.txt")).solvePart2()
+
+            // Assert
+            assertThat(answer).isEqualTo(1_197)
         }
     }
 }

@@ -43,9 +43,11 @@ class Day17(input: List<String>) {
         val seen = mutableSetOf<State>()
         val queue = PriorityQueue<Work>()
 
-        State(Point2D(0, 0), EAST, 0).apply {
-            queue += Work(this, 0)
-            seen += this
+        listOf(EAST, SOUTH).forEach { startDirection ->
+            State(Point2D(0, 0), startDirection, 0).apply {
+                queue += Work(this, 0)
+                seen += this
+            }
         }
 
         while (queue.isNotEmpty()) {
@@ -68,7 +70,7 @@ class Day17(input: List<String>) {
 
     private data class State(val location: Point2D, val direction: Point2D, val steps: Int) {
         fun next(nextDirection: Point2D): State =
-            State(location+nextDirection, nextDirection, if(direction == nextDirection) steps+1 else 1)
+            State(location + nextDirection, nextDirection, if (direction == nextDirection) steps + 1 else 1)
     }
 
     private data class Work(val state: State, val heatLoss: Int) : Comparable<Work> {
